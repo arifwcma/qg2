@@ -63,12 +63,12 @@
         <paletteEntry alpha="255" label="Other uses" color="#ffffff" value="132"/>
         <paletteEntry alpha="255" label="Other uses" color="#ffffff" value="133"/>
         <paletteEntry alpha="255" label="Other uses" color="#ffffff" value="134"/>
-        <paletteEntry alpha="255" label="Other uses" color="#d9d6cf" value="200"/>
+        <paletteEntry alpha="255" label="Grazing native vegetation" color="#d9d6cf" value="200"/>
         <paletteEntry alpha="255" label="Grazing native vegetation" color="#d9d6cf" value="210"/>
         <paletteEntry alpha="255" label="Other uses" color="#ffffff" value="220"/>
         <paletteEntry alpha="255" label="Other uses" color="#ffffff" value="221"/>
         <paletteEntry alpha="255" label="Other uses" color="#ffffff" value="222"/>
-        <paletteEntry alpha="255" label="Other uses" color="#cdd546" value="300"/>
+        <paletteEntry alpha="255" label="Grazing modified pastures" color="#cdd546" value="300"/>
         <paletteEntry alpha="255" label="Other uses" color="#ffffff" value="310"/>
         <paletteEntry alpha="255" label="Other uses" color="#ffffff" value="311"/>
         <paletteEntry alpha="255" label="Other uses" color="#ffffff" value="312"/>
@@ -87,7 +87,7 @@
         <paletteEntry alpha="255" label="Cropping" color="#72881a" value="334"/>
         <paletteEntry alpha="255" label="Cropping" color="#72881a" value="335"/>
         <paletteEntry alpha="255" label="Cropping" color="#72881a" value="336"/>
-        <paletteEntry alpha="255" label="Other uses" color="#72881a" value="337"/>
+        <paletteEntry alpha="255" label="Cropping" color="#72881a" value="337"/>
         <paletteEntry alpha="255" label="Cropping" color="#72881a" value="338"/>
         <paletteEntry alpha="255" label="Horticulture" color="#e60000" value="340"/>
         <paletteEntry alpha="255" label="Horticulture" color="#e60000" value="341"/>
@@ -100,7 +100,7 @@
         <paletteEntry alpha="255" label="Horticulture" color="#e60000" value="348"/>
         <paletteEntry alpha="255" label="Horticulture" color="#e60000" value="349"/>
         <paletteEntry alpha="255" label="Horticulture" color="#e60000" value="350"/>
-        <paletteEntry alpha="255" label="Other uses" color="#e60000" value="351"/>
+        <paletteEntry alpha="255" label="Horticulture" color="#e60000" value="351"/>
         <paletteEntry alpha="255" label="Horticulture" color="#e60000" value="352"/>
         <paletteEntry alpha="255" label="Horticulture" color="#e60000" value="353"/>
         <paletteEntry alpha="255" label="Grazing modified pastures" color="#cdd546" value="360"/>
